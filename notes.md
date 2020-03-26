@@ -7,7 +7,7 @@ Cypress is an e2e testing library with a GUI
 ## Dependencies
 
 - `npm i cypress --save -dev`
-- `npx cypress open`
+- `npx cypress open` - this opens Cypress's GUI
 
 ## Run Tests Without GUI
 
